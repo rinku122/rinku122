@@ -6,9 +6,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on decentralized web app development and smartcontracts.
 
-- 🌱 I’m currently learning Blockchain  
+- 🌱 I’m currently exporing Blockchain.  
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
