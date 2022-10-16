@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on decentralized web app development and smartcontracts.
 
-- 🌱 I’m currently exporing Blockchain.  
+- 🌱 Currently exporing Blockchain.  
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
